@@ -1,0 +1,38 @@
+
+.conteiner { 
+    align-items: center; 
+    margin: auto; 
+    background: linear-gradient(#dc7676, #edee83, #84b9fb); 
+    margin-top: 20px; 
+    text-align: center; 
+    width: 900px; 
+    height: auto; 
+} 
+img {
+    width: 100px;
+    height: auto;
+    margin: auto;
+}
+header{
+    border-bottom: 2px dashed black;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+div{
+    font-size: 150%;
+    width: 900px;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    border:solid purple;
+    border-radius: 12px;
+}
+
